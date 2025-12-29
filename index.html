@@ -59,4 +59,95 @@
         h2 {
             color: #2c3e50;
             border-left: 5px solid #007bff;
-            padding-left:
+            padding-left: 10px;
+            margin-top: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            overflow: hidden;
+            border-radius: 10px;
+        }
+
+        th, td {
+            border: 1px solid #dee2e6;
+            padding: 12px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        tr:hover {
+            background-color: #e2e6ea;
+            transition: 0.3s;
+        }
+
+        /* Màu sắc cho từng buổi */
+        .morning { color: #d9534f; font-weight: bold; }
+        .afternoon { color: #5bc0de; font-weight: bold; }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    
+    <div class="profile-header">
+        <h1>Giới Thiệu Bản Thân</h1>
+        <p><i>"Học hỏi mỗi ngày là chìa khóa của thành công"</i></p>
+    </div>
+
+    <div class="info-grid">
+        <div class="info-item"><b>Họ và tên:</b> Tran ngoc Thao Vy div>
+        <div class="info-item"><b>Ngày sinh:</b> 01/01/2005</div>
+        <div class="info-item"><b>Lớp:</b> Công nghệ thông tin</div>
+        <div class="info-item"><b>Sở thích:</b> Lập trình, Đọc sách, Đá bóng</div>
+        <div class="info-item" style="grid-column: span 2;"><b>Mục tiêu:</b> Trở thành một lập trình viên giỏi.</div>
+    </div>
+
+    <h2>Thời Khóa Biểu (Thứ 2 - Thứ 6)</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Buổi</th>
+                <th>Thứ 2</th>
+                <th>Thứ 3</th>
+                <th>Thứ 4</th>
+                <th>Thứ 5</th>
+                <th>Thứ 6</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="morning">Sáng</td>
+                <td>Toán Cao Cấp</td>
+                <td>Lập Trình C</td>
+                <td>Tiếng Anh</td>
+                <td>Toán Cao Cấp</td>
+                <td>Lập Trình C</td>
+            </tr>
+            <tr>
+                <td class="afternoon">Chiều</td>
+                <td>Thể Dục</td>
+                <td>Tự Học</td>
+                <td>Kỹ Năng Mềm</td>
+                <td>Tự Học</td>
+                <td>Đồ Họa Máy Tính</td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+
+</body>
+</html>
