@@ -1,0 +1,84 @@
+<html>
+    <head>
+      <title> Tôi tên Trần Ngọc Thảo Vy học lớp 12A9 THPT Ngô Quyền </title>
+      <meta charset="utf-8">
+    </head>
+  <body>
+      <h1> THỜI KHOÁ BIỂU </h1>
+      <h2>Học Kỳ I</h2>
+     <table border="1">
+        <tr>
+            <th> Tiết </th>
+            <th> Thứ 2  </th>
+            <th> Thứ 3  </th>
+            <th> Thứ 4  </th>
+            <th> Thứ 5  </th>
+            <th> Thứ 6  </th>
+            <th> Thứ 7  </th>
+        </tr>
+         <tr>
+            <td> 1 </td>
+            <td> SHDC  </td>
+            <td> Hoá Học </td>
+            <td> Lịch Sử  </td>
+            <td> Tiếng Anh  </td>
+            <td> Hoá học  </td>
+            <td> Toán học(LT)  </td>
+         </tr>
+         <tr>
+            <td> 2 </td>
+            <td> SHCN  </td>
+            <td> Tiếng Anh  </td>
+            <td> Sinh Học  </td>
+            <td> Toán Học  </td>
+            <td> TNHN  </td>
+            <td> Toán học(LT)  </td>
+         </tr>
+         <tr>
+            <td> 3 </td>
+            <td> Sinh Học  </td>
+            <td> Ngữ Văn  </td>
+            <td> Toán Học  </td>
+            <td> Vật Lý  </td>
+            <td> Thể Dục  </td>
+            <td> Ngữ Văn(LT)  </td>
+         </tr>
+         <tr>
+            <td> 4 </td>
+            <td> Vật Lý  </td>
+            <td> Hoá học  </td>
+            <td> Toán Học  </td>
+            <td> GDĐP  </td>
+            <td> Thể Dục  </td>
+            <td> Ngữ Văn(LT)  </td>
+         </tr>
+         <tr>
+            <td> 5 </td>
+            <td> Vật lý  </td>
+            <td> STEM(TC)  </td>
+            <td> Vật Lý(LT)  </td>
+            <td> Toán Học  </td>
+            <td> GDQP & AN  </td>
+            <td>   </td>
+         </tr>
+         <tr>
+            <td> 6 </td>
+            <td> Tin Học  </td>
+            <td> STEM(TC)  </td>
+            <td> Hoá Học(LT)  </td>
+            <td> Cầu Lông(TC)  </td>
+            <td> Ngữ Văn  </td>
+            <td>   </td>
+         </tr>
+         <tr>
+            <td> 7 </td>
+            <td> Tin Học  </td>
+            <td> Tiếng Anh  </td>
+            <td> lý  </td>
+            <td> Cầu Lông(TC)  </td>
+            <td> Ngữ Văn  </td>
+            <td>  </td>
+         </tr>
+     </table>
+  </body>
+</html>
