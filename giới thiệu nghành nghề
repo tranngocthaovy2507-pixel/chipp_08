@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu ngành Dược</title>
+  <h1>Giới thiệu ngành Dược</h1>
+
+    <div class="box">
+        <h2>Ngành Dược là gì?</h2>
+        <p>
+            Ngành Dược là ngành học liên quan đến thuốc và sức khỏe con người.
+            Sinh viên ngành Dược sẽ được học về cách bào chế, sử dụng và bảo quản thuốc
+            sao cho an toàn và hiệu quả.
+        </p>
+
+        <h2>Học ngành Dược ra làm gì?</h2>
+        <p>
+            Sau khi tốt nghiệp ngành Dược, sinh viên có thể làm việc ở nhiều vị trí khác nhau như:
+        </p>
+        <ul>
+            <li>Dược sĩ tại nhà thuốc</li>
+            <li>Làm việc trong bệnh viện</li>
+            <li>Nhân viên kiểm nghiệm thuốc</li>
+            <li>Làm việc tại công ty dược phẩm</li>
+        </ul>
+
+        <h2>Vì sao nên chọn ngành Dược?</h2>
+        <p>
+            Ngành Dược có vai trò rất quan trọng trong xã hội vì giúp chăm sóc và bảo vệ sức khỏe con người.
+            Ngoài ra, đây cũng là ngành có nhu cầu việc làm cao và ổn định.
+        </p>
+
+        <h2>Tố chất cần có</h2>
+        <ul>
+            <li>Cẩn thận, tỉ mỉ</li>
+            <li>Yêu thích môn Hóa học và Sinh học</li>
+            <li>Có trách nhiệm với công việc</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>nghành nghề yêu thích</p>
+    </footer>
+
+</body>
+</html>
