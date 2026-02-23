@@ -1,3 +1,25 @@
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.header{
+  flex: 15%;
+  background-color: gray;
+}
+.menu{
+  flex: 5%;
+ background-color: lightgray;
+}
+.content{
+  flex: 70%;
+  background-color: yellow;
+  }
+.footer {
+  flex: 10%;
+   background-color: yellow;
+}
 .f1 {
   color: red;
   margin-top: 18pt;
