@@ -1,39 +1,48 @@
-}
 .container{
   display: flex;
   flex-direction: column;
   height: 100vh;
 }
+
 .header{
   flex: 15%;
   background-color: gray;
 }
+
 .menu{
   flex: 5%;
- background-color: lightgray;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
 }
+
 .menu a{
   padding: 15px 20px;
   color: pink;
+  text-decoration: none;
 }
-.menu hover{
-  background-color: lightgray;
+
+.menu a:hover{
+  background-color: #ddd;
   color: black;
 }
-.conten iframe{
-  flex: 1;
-  border: none;
-  width: 100%;
-  height: 100%;
-}
+
 .content{
   flex: 70%;
   background-color: yellow;
-  }
+}
+
+.content iframe{
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
 .footer {
   flex: 10%;
-   background-color: yellow;
+  background-color: yellow;
 }
+
 .f1 {
   color: red;
   margin-top: 18pt;
@@ -41,11 +50,11 @@
   font-weight: bold;
   font-family: "Times New Roman";
 }
+
 .f2 {
   color: black;
   margin-top: 6pt;
   margin-bottom: 6pt;
   font-size: 15px;
-  font-weight: normal;
   font-family: "Times New Roman";
 }
