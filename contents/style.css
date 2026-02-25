@@ -37,12 +37,24 @@
   height: 100%;
   border: none;
 }
-
 .footer {
   flex: 10%;
   background-color: yellow;
 }
+.top-link{
+  margin: 15px;
+}
 
+.top-link a{
+  text-decoration: none;
+  color: blue;
+  margin-right: 12px;
+  font-weight: bold;
+}
+.top-link a:hover{
+  color: red;
+  text-decoration: underline;
+}
 .f1 {
   color: red;
   margin-top: 18pt;
