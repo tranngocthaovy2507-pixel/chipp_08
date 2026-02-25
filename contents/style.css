@@ -12,6 +12,20 @@
   flex: 5%;
  background-color: lightgray;
 }
+.menu a{
+  padding: 15px 20px;
+  color: pink;
+}
+.menu hover{
+  background-color: lightgray;
+  color: black;
+}
+.conten iframe{
+  flex: 1;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
 .content{
   flex: 70%;
   background-color: yellow;
