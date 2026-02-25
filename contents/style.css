@@ -11,20 +11,19 @@
 
 .menu{
   flex: 5%;
-  background-color: lightgray;
+  background-color: darkblue;
   display: flex;
   align-items: center;
 }
 
 .menu a{
+  color: white;
   padding: 15px 20px;
-  color: pink;
   text-decoration: none;
 }
 
 .menu a:hover{
-  background-color: #ddd;
-  color: black;
+  background-color: lightgray;
 }
 
 .content{
