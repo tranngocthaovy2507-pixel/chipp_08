@@ -7,6 +7,8 @@
 .header{
   flex: 15%;
   background-color: gray;
+  background: url("CCDA0596-6F56-424C-9AB3-FF4FC8F3BC98.jpeg") center / 100%;
+  aspect-ratio: 6 / 1;
 }
 
 .menu{
