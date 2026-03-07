@@ -7,7 +7,7 @@
 .header{
   flex: 15%;
   background-color: gray;
-  background: url("CCDA0596-6F56-424C-9AB3-FF4FC8F3BC98.jpeg") center / 80%;
+  background: url("CCDA0596-6F56-424C-9AB3-FF4FC8F3BC98.jpeg") center / 100%;
   aspect-ratio: 6 / 1;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .content{
-  flex: 70%;
+  flex: 90%;
   background-color: white;
 }
 
